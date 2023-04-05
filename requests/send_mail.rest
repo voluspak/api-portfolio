@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/porfolio/sendMail
+Content-Type: application/json
+
+{
+  "name": "Ivan",
+  "email": "mr_lyrics_official@hotmail.com",
+  "message": "Este es un mensaje de prueba que mando desde la API"
+}
