@@ -1,0 +1,10 @@
+{
+  "service": "gmail",
+  "auth": {
+    "type": "OAuth2",
+    "user": "ivantelleria96@gmail.com",
+    "clienId": "process.env.ID_CLIENT_GMAIL",
+    "clientSecret": "process.env.SECRET_CLIENT_GMAIL",
+    "refreshToken": ""
+  }
+}
